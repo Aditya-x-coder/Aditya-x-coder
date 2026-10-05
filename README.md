@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class UditKumar:
+class AdityaRoy:
     name       = "Aditya Roy"
     handle     = "@Aditya-x-coder"
     age        = 18
